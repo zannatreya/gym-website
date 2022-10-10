@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Gym website App](https://gym-website-f32b81.netlify.app/).
 
 ## Available Scripts
 
